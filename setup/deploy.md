@@ -6,7 +6,7 @@ stockLogic uses a deploy script, requiring our source code. Using our deploy scr
 We do not recommend for you to directly use the source code unless you have to create changes that aren't possible with the built-in plugin system. If you use the source code, you will not get automatic updates & bug fixes to your game.
 {% endhint %}
 
-**Join our** [**Discord**](https://discord.gg/sQxBmkDzr9)**, we plan to release more free, open-sourced products. Furthermore, you can gain support there!**
+**Join our** [**Discord**](https://discord.gg/ngGCWy6ytY)**, we plan to release more free, open-sourced products. Furthermore, you can gain support there!**
 
 Get our deploy model [here](https://roblox.com/library/9145770328), and follow setup steps below.
 
